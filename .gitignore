@@ -1,0 +1,2 @@
+# ignore environment variables (API-keys, etc.)
+.env

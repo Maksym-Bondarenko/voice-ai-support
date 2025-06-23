@@ -1,0 +1,8 @@
+version: 2
+tunnels:
+  api:
+    addr: 8000
+    proto: http
+  llm:
+    addr: 8001
+    proto: http      # WebSocket rides on http(s)
