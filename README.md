@@ -122,5 +122,11 @@ pytest -q    # 3 tests, <1s
 
 ---
 
+## 📸Screenshots
+* **n8n Webhooks**: ![image](https://github.com/user-attachments/assets/0597d511-4045-48a1-8dab-ecb6ab752cef)
+* **Retell Flow**: ![image](https://github.com/user-attachments/assets/28c3d611-6d42-44bf-9fbb-509951a0bbf9)
+
+---
+
 Maksym Bondarenko | 2025
 [LinkedIn](https://www.linkedin.com/in/maksym-bondarenko-ua/) | [GitHub](https://github.com/Maksym-Bondarenko)
